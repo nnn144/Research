@@ -65,4 +65,5 @@ Reconstruction information
                followed by one conv2d(filters=4, kernel_size=(3, 3), strides=(1, 1), padding='same')
             7. Conv2D(filters=1, kernel_size=(3, 3), strides=(1, 1), padding='valid'),  
                followed by one conv2d(filters=1, kernel_size=(8, 8), strides=(1, 1), padding='valid')
-    
+    - Results
+        ![Reconstruction](Results.png)
